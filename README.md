@@ -1,6 +1,10 @@
-# Sobre mim
+# Sobre mim:
 
-- 👋 Olá, eu sou @Carolribeiro6
-- 👍 Meu email de contato é: carolcarolribeiro6@gmail.com
+- 👋 Olá, meu nome é @Carolribeiro6
 - 👀 Eu estou interessada em aprender a programar novas linguagens
-- 🌱 Eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
+ 
+# Estou aprendendo:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+
+# Contatos:
+<a href = "mailto:carolcarolribeiro6@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
