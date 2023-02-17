@@ -1,7 +1,7 @@
 # Sobre mim:
 
 - 👋 Olá, meu nome é @Carolribeiro6
-- 👀 Eu estou interessada em aprender a programar novas linguagens
+- 👀 Tenho interesse em aprender a programar novas linguagens
  
 # Estou aprendendo:
 
